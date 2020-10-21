@@ -1,1 +1,1 @@
-# img_binarization
+# Image binarization
